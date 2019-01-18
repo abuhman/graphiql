@@ -11,6 +11,7 @@ GraphiQL
 
 ### Getting started
 
+If you only want to install Graphiql to run queries, you can go to this website https://electronjs.org/apps/graphiql and click the download button to get an executable installation file.
 Using a node.js server? Just use [`express-graphql`](https://github.com/graphql/express-graphql)! It can automatically present GraphiQL. Using another GraphQL service? GraphiQL is pretty easy to set up. With `npm`:
 
 ```
